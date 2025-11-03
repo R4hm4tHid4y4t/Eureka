@@ -3141,7 +3141,7 @@ instanceKlass org/springframework/boot/SpringApplication
 instanceKlass java/util/zip/Checksum$1
 instanceKlass java/util/zip/CRC32
 instanceKlass java/util/zip/Checksum
-instanceKlass com/shidiq/eureka_server/EurekaServerApplication
+instanceKlass com/rahmat/eureka_server/EurekaServerApplication
 instanceKlass sun/nio/ByteBuffered
 instanceKlass java/lang/Package$VersionInfo
 instanceKlass jdk/internal/loader/Resource
